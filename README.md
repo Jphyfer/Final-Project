@@ -1,11 +1,11 @@
 # Final-Project
 Acting as a security engineer supporting an organization's SOC infrastructure. The SOC analysts have noticed some discrepancies with alerting in the Kibana system and the manager has asked the security engineering team to investigate and confirm that newly created alerts are working.+
 
-[Red Team Operations](https://github.com/Jphyfer/Red-Team-vs-Blue-Team/blob/main/Activities/Activity%20One%20Red%20Team%20Capture%20the%20Flag.pdf)
+[Red Team Operations](https://github.com/Jphyfer/Final-Project/blob/main/Team%20Operations/Red_Team_Operations.pdf)
 
-[Blue Team Operations](https://github.com/Jphyfer/Red-Team-vs-Blue-Team/blob/main/Activities/Activity%20Two%20Identify%20Offensive%20Traffic.pdf)
+[Blue Team Operations](https://github.com/Jphyfer/Final-Project/blob/main/Team%20Operations/Blue_Team%20_Operations.pdf)
 
-[Powerpoint Presentation](https://github.com/Jphyfer/Red-Team-vs-Blue-Team/blob/main/Activities/Red%20Vs%20Blue%20Project%202%20Gold%20Team%20Jphyfer.pdf)
+[Powerpoint Presentation](https://github.com/Jphyfer/Final-Project/blob/main/Final%20Project%20Presentation/Offensive%20Final%20Project%20Presentation%20.pdf)
 
 The project had me apply knowledge with the following skills and tools:
 
@@ -26,4 +26,4 @@ The project had me apply knowledge with the following skills and tools:
  - Chris Turner
  - Philip Clark
 
-Activities Done on an Individual Basis
+Operation Assignments Done on an Individual Basis
