@@ -1,5 +1,5 @@
 # Final-Project
-Acting as a security engineer supporting an organization's SOC infrastructure. The SOC analysts have noticed some discrepancies with alerting in the Kibana system and the manager has asked the security engineering team to investigate and confirm that newly created alerts are working.+
+Acting as a security engineer supporting an organization's SOC infrastructure. The SOC analysts have noticed some discrepancies with alerting in the Kibana system and the manager has asked the group to investigate and confirm that newly created alerts are working. If the alerts are working, we monitored live traffic on the wire to detect any abnormalities that aren't reflected in the alerting system. Then, we were to report back our findings to the manager with an appropriate analysis.
 
 [Red Team Operations](https://github.com/Jphyfer/Final-Project/blob/main/Team%20Operations/Red_Team_Operations.pdf)
 
